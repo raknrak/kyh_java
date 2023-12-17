@@ -1,5 +1,5 @@
 package com.example.kyh_java.cond.ex;
-
+// 삼항 연산자를 사용하기
 public class Ex7Question {
     //x가 짝수이면  짝수, 홀수이면 홀수 출력
 
