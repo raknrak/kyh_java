@@ -5,7 +5,7 @@ public class Scope3_2 {
         int m = 10;
         //int temp = 0;
         if(m > 0){
-           int  temp = m * 2;
+           int  temp = m * 2; // 꼭 필요한 곳으로 범위를 한정시키기
             System.out.println("temp = " + temp);
         }
         System.out.println(" m = " + m);
